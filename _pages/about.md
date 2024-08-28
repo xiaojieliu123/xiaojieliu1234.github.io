@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Northwestern University, Kellogg School of Mnagement</a>.
+ Contacts: xiaojie.liu@kellogg.northwestern.edu
 
 profile:
   align: right
