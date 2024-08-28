@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /publications/
+permalink: /Research/
 title: Research
 description: publications by categories in reversed chronological order.
 nav: true
