@@ -2,11 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Northwestern University, Kellogg School of Mnagement</a>.
 profile:
   align: right
   image: me.png
   image_circular: false # crops the image to make it circular
+  more_info: >
+     <p>Ph.D in Managerial Economics and Strategy</p>
+     <p>Kellogg School of Management</p>
+     <p>Northwestern University</p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
