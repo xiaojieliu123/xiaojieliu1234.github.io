@@ -7,7 +7,7 @@ subtitle: <a href='#'>Northwestern University, Kellogg School of Mnagement</a>.
 
 profile:
   align: right
-  image: mejpg
+  image: me.png
   image_circular: false # crops the image to make it circular
 
 news: true # includes a list of news items
