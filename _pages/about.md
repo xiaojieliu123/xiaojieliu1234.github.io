@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Ph.D in Managerial Economics and Strategy, Kellogg School of Management</a>
+subtitle: <a href='https://www.kellogg.northwestern.edu/faculty/academics/managerial-economics-decision-sciences.aspx'>Ph.D in Managerial Economics and Strategy, Kellogg School of Management</a>
 profile:
   align: right
   image: me.png
