@@ -18,3 +18,5 @@ Welcome to my personal website! I am a Ph.D. candidate in Managerial Economics a
 I will be on the 2024-2025 job market.
 
 Previously, I received Master in Economics summa cum laude from Sciences Po and  B.S. with honors in Electrical Engineering from Fudan University.
+
+Contact: xiaojie.liu@kellogg.northwestern.edu
